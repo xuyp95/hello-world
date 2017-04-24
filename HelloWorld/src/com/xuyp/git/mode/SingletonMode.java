@@ -93,5 +93,4 @@ public class SingletonMode {
 	public static SingletonMode getSingletonMode5 () {
 		return SINGLETON_MODE_2;
 	}
-	
 }
